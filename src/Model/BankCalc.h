@@ -14,7 +14,7 @@ namespace s21 {
   Методы и поля для работы с вкладами и кредитами
 */
 class BankCalc {
- public:  // DepositArifmetic
+ public:
   int sum;
   double time;
   double percent;
